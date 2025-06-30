@@ -25,17 +25,17 @@ Whether you’re here to adopt, volunteer, donate, or simply learn more, we welc
       <h2>👨‍👩‍👧 Our Paw-some Team</h2>
       <div class="team-grid">
         <div class="member">
-          <img src="assets/images/team1.jpg" alt="Cikgu Azfar">
+          <img src="assets/images/OODENG ORI.jpg" alt="Cikgu Azfar">
           <h3>Cikgu Azfar</h3>
           <p>Lead vet</p>
         </div>
         <div class="member">
-          <img src="assets/images/team2.jpg" alt="Mia">
+          <img src="assets/images/HUH Gebu.jpg" alt="Mia">
           <h3>Mia</h3>
           <p>Founder & Director</p>
         </div>
         <div class="member">
-          <img src="assets/images/team3.jpg" alt="Aysha">
+          <img src="assets/images/20250630160559_Jimin.jpg" alt="Aysha">
           <h3>Aysha</h3>
           <p>Volunteer Lead</p>
         </div>
